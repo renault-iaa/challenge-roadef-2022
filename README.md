@@ -17,3 +17,7 @@ In the file info_challenge.ini, you have the declare the path/filenames of the u
 3. Select the menu "Unitary Display"
 
 For further details, see the visualizer user guide.
+
+# Other
+- The file formats of the datasets are defined in the rules.
+- The website of the challenge : https://www.roadef.org/challenge/2022/en/index.php
